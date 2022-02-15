@@ -5,3 +5,5 @@ subtitle: What is Nearthere?
 ---
 
 An open virtual world for everyone. Built on top of the NEAR Protocol to reimagine your virtual world.
+
+Stay tuned to get more information soon!

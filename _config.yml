@@ -15,7 +15,7 @@ author: The Metaverse
 navbar-links:
   Introduction: "aboutus"
   Getting Started:
-    - Start App: "https://app.nearthere.network/"
+    - Start App: "https://testnet.nearthere.network/"
     - Open Wallet: "https://wallet.near.org/"
 
 # --- Logo --- #
@@ -39,8 +39,8 @@ round-avatar: true
 social-network-links:
   email: "info@nearthere.network"
   github: nearthere
-  telegram: nthernet
-  twitter: nthernet
+  telegram: neartherenet
+  twitter: neartherenet
 #  reddit: username
 #  facebook: username
 #  instagram: username
